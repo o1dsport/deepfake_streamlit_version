@@ -5,6 +5,10 @@ This project focuses on building a practical deepfake classifier and understandi
 
 ---
 
+## Live Demo
+
+https://deepfakeappversion.streamlit.app
+
 ## Project Overview
 
 Deepfake content is becoming increasingly realistic and difficult to detect.  
