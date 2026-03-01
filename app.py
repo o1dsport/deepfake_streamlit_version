@@ -11,7 +11,7 @@ st.set_page_config(page_title="Advanced Deepfake Detector")
 
 st.title("AI Powered Deepfake Detection System")
 
-model = tf.keras.models.load_model("deepfake_model.h5")
+model = tf.keras.models.load_model("best_model_phase1.h5")
 
 uploaded_file = st.file_uploader("Upload Image", type=["jpg","jpeg","png"])
 
